@@ -1,5 +1,11 @@
 class Solution(object):
     def twoSum(self, nums, target):
+        '''
+        Brute Force 
+        The worst solution
+        Time Complexity : O(n^2)
+        Space Complexity : O(1)
+        '''
         """
         :type nums: List[int]
         :type target: int
