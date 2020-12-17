@@ -1,9 +1,9 @@
 class Solution(object):
     def twoSum(self, nums, target):
         '''
-        Brute Force 
-        The worst solution
-        Time Complexity : O(n^2)
+        Hashmap  
+        The best solution
+        Time Complexity : O(n)
         Space Complexity : O(1)
         '''
         """
